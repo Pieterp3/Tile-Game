@@ -1,0 +1,57 @@
+1. Cut down trees, mine rocks, catch fish and kill things to beat 'zones' in regions
+2. Zones generate resources - based on type (Mon=Leather,Rock=Stone,Trees=Wood)
+3. Can sell resources or build things on home map
+4. First map you capture can become your home map
+5. Can sell maps based on value over potential lifetime if all regions are yours
+6. Maps have lifetimes
+7. Add support for custom shops
+8. Screen to track which regions you own
+	- Different colors based on the percentage of regions on the map that are yours
+9. Maps dont expire when a region has been captured
+10. Home map is expandable
+11. Shops in each zone
+	a. Sell resources
+	b. Special items
+		I. Expand region time
+		II. Purchase zone
+		III. Zone multipliers (For each resource type)
+		IV. 
+12. Regions have densities
+	a. Desolate
+	b. Sparse
+	c. Average
+	d. Abundant
+	e. Rich
+13. Higher qualities have better resources
+14. Regions have qualities
+	a. Common
+	b. Uncommon
+	c. Rare
+	d. Epic
+	e. Legendary
+15. Make player follow path after it'b been given from pathfinder
+17. Must capture all regions on a map to own the map
+18. Can upgrade resources to better types
+19. Add depth to land and populate dark green grass with trees
+20. Add a quest menu and npcs in your home map that give quests
+21. Add FPS Counter
+22. Add plants in game that give herbs
+23. Gathering zones that have herb plants can be used to plant new plants when they're beaten and will generate herbs based on the seeds given
+24. Zones with trees can be used to plant trees
+25. Add experience system
+26. Implement Farming, Fishing, Fletching and Woodcutting
+27. Implement combat system
+28. Implement Npc random walking with top level npcs
+29. Add a box for player notifications
+	a. Fade after a few seconds
+	b. move to top or bottom depending on player location
+	c. Use for chatting with npcs too
+30. Add banking
+31. Add fish npcs
+32. Fish do not count towards region capturing
+	a. Make fishing profitable because it's not required to capture the map
+33. Create skilling panel in pause interface
+34. Draw fps in options panel
+35. Implement scroll wheel zoom that zooms in 1 tile per tick
+37. Implement Bots which act like other players
+38. Draw inventory next to shop when shopping

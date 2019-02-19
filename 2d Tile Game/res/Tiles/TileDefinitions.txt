@@ -1,0 +1,2 @@
+Grasslands	64	64	0 2		3 2		true	-1
+Desert		64	64	0 1		1 2		false	-1

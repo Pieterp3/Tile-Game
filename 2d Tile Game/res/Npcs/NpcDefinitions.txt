@@ -1,0 +1,8 @@
+0	Ice Giant	Attack	35	40
+1	Mystic	Talk-to	48	64
+2	Combat Instructor	Talk-to	48	64
+3	Quest Master	Talk-to	48	64
+4	Servant	Talk-to	48	64
+5	Woman	Talk-to	48	64
+6	Teller	Talk-to	48	64
+7	Witch	Talk-to	48	64

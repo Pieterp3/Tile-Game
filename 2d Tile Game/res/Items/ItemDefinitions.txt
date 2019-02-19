@@ -1,0 +1,4 @@
+0	Logs	Logs_Use_-1_false_10_A small pile of logs
+1	Tinderbox	Tinderbox_Use_-1_false_25_Used to light fires
+2	Ashes	Ashes_Use_-1_true_1_A pile of ashes
+3	Seeds	Tree Seeds_Use_-1_true_10_Some seeds to grow a tree	Maple Seeds_Use_-1_true_25_Some seeds to grow a maple tree	Willow Seeds_Use_-1_true_100_Some seeds to grow a willow tree	Oak Seeds_Use_-1_true_250_Some seeds to grow an oak tree

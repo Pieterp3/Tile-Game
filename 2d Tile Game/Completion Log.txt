@@ -1,0 +1,39 @@
+1. Added map creating and tileset reading
+2. Added random map generation
+3. Filtered map generation for smoother maps
+4. Added a game engine for updating painting
+5. Created region detector to check completion of an area
+6. Added GameObjects and handler/loaders
+7. Added hover text on gameobjects
+8. Added Entity based npc system
+9. Added Fog - Toggleable in Constants
+10. Added buttons to open interfaces on right side
+11. Added a basic interface system
+12. Added basic item system
+13. Added animated object system
+14. Added temporary object system
+15. Updated use item methods
+16. Create item on npc and item on object methods
+17. Handled clicking objects and npcs
+18. Tweaked region identifier to disallow regions smaller than 6 tiles
+19. Added hover support for temporary objects
+20. Fixed major bug which stopped map processes when resetting map
+21. Implemented simplex noise map generation algorithms
+22. Added a pause menu instead of buttons on right side of screen
+23. Added animated portal system - Still needs going through screen
+24. Added player movement
+25. Clipped walking
+26. Fixed region identification bug
+27. Rewrote object system and improved temporary objects
+28. Added Quit Button
+29. Added 7 new Npcs
+30. Added shop system and interface
+31. Added fps counter
+32. Made game screen scale to monitor size
+33. Updated hovertext methods to allow for different colors and more pieces
+34. Rewrote interface system again
+35. Added support for animated sprites in interfaces
+36. Implemented shopping interface
+37. Added unanimated boats between regions
+38. Added A* pathfinding and only travels through water while using a boat
+39. Made player follow path and auto-update face direction

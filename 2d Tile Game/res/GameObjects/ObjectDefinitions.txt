@@ -1,0 +1,6 @@
+0	64 64	Tree		Normal_0_Chop Down_false	Maple_0_Chop Down_false	Willow_0_Chop Down_false	Oak_0_Chop Down_false
+1	64 64	Rock		Tin_0_Examine_false			Copper_0_Examine_false	Iron_0_Examine_false
+2	64 64	Campfire	Campfire_200_Use_true
+3	0 0		Portal		Pink_100_Enter_true			Blue_100_Enter_true		Yellow_100_Enter_true		Green_100_Enter_true
+4a8	32 32	Gem			Blue_100_Collect_true		Green_100_Collect_true	Black_100_Collect_true		Red_100_Collect_true		Pink_100_Collect_true	Yellow_100_Collect_true
+5	63 70	Boat		Boat_0_Enter Boat_false
